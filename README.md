@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noraiz Amaan</h1>
-<h3 align="center">Currently a Final Year Student & tech-enthusiast, pursuing BTech In Computer Science Engineering at Vellore Institute Of Technology , Bhopal.</h3>
+<h3 align="center">Currently a Final Year Student, pursuing BTech In Computer Science Engineering at Vellore Institute Of Technology , Bhopal. Focused on learning new skills and developing effective solutions to technical challenges.</h3>
 
 - 🔭 I’m currently working on [Deepfake Video Detection](https://github.com/NoraizAmaan/Deepfake-Detection.git)
 
 - 🌱 I’m currently learning **AI & ML , Data Structures & Algorithms , Backend Development**
 
-- 👯 I’m looking to collaborate on [Advanced Skin Disease Diagnosis Detection](https://github.com/orgs/Team-2-Infosys-Springboard/repositories)
+- 👯 I’ve Completed an Artificial Intelligence and Machine Learning Internship under Infosys & collaborated on [Advanced Skin Disease Diagnosis Detection](https://github.com/orgs/Team-2-Infosys-Springboard/repositories)
 
 - 👨‍💻 All of my projects are available at [https://github.com/NoraizAmaan](https://github.com/NoraizAmaan)
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noraizamaan&show_icons=true&locale=en" alt="noraizamaan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noraizamaan&" alt="noraizamaan" /></p>
+

@@ -40,7 +40,7 @@ Building Scalable, Production-Ready Web Applications
 `MongoDB` `Express.js` `React.js` `Angular` `Node.js` `JavaScript`
 
 ### ☁️ Cloud & DevOps
-`AWS` `GCP` `CI/CD` `Git` `REST APIs`
+`AWS` `GCP` `Cloudinary` `Git` `REST APIs`
 
 ### 📦 Additional
 `TailwindCSS` `Bootstrap` `MySQL`
